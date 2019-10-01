@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfContato xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contato>
+    <id>0</id>
+    <telefone>(31) 39919-1861</telefone>
+    <email>dudoxeza@rmailgroup.in</email>
+    <cep>33113-010</cep>
+    <endereco>Avenida Adair de Souza</endereco>
+    <cidade>Santa Luzia</cidade>
+    <bairro>Belo Vale</bairro>
+    <numero>253</numero>
+    <uf>MG</uf>
+  </Contato>
+  <Contato>
+    <id>0</id>
+    <telefone>(31) 58419-8498</telefone>
+    <email>dudoxeza@rmailgroup.in</email>
+    <cep>49097-023</cep>
+    <endereco>Rua Coronel Andrade</endereco>
+    <cidade>Aracaju</cidade>
+    <bairro>Ponto Novo</bairro>
+    <numero>666</numero>
+    <uf>SE</uf>
+  </Contato>
+  <Contato>
+    <id>1</id>
+    <telefone>(65) 46216-1651</telefone>
+    <email>aa@email.com</email>
+    <cep>70303-904</cep>
+    <endereco>SCS Quadra 3 Bloco A Loja 1</endereco>
+    <cidade>Brasília</cidade>
+    <bairro>Asa Sul</bairro>
+    <numero>16515</numero>
+    <uf>DF</uf>
+  </Contato>
+</ArrayOfContato>

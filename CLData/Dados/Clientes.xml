@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfCliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cliente>
+    <id>0</id>
+    <nome>Lionel Messi</nome>
+    <sexo>77</sexo>
+    <cpf>870,021,470-13</cpf>
+    <rg>22222222</rg>
+    <dataDeNascimento>1999-01-10T00:00:00</dataDeNascimento>
+    <grupoSanguineo>B+</grupoSanguineo>
+    <dataDeExpiracao>2019-08-28T00:00:00</dataDeExpiracao>
+  </Cliente>
+  <Cliente>
+    <id>1</id>
+    <nome>Fran</nome>
+    <sexo>70</sexo>
+    <cpf>260,843,310-33</cpf>
+    <rg>62626662</rg>
+    <dataDeNascimento>1999-11-20T00:00:00</dataDeNascimento>
+    <grupoSanguineo>AB-</grupoSanguineo>
+    <dataDeExpiracao>2019-08-16T00:00:00</dataDeExpiracao>
+  </Cliente>
+</ArrayOfCliente><?xml version="1.0"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
